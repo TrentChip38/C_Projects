@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\trent\source\repos\ProjectBigSmall\Source.cpp(32,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\trent\source\repos\ProjectBigSmall\Source.cpp(32,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 2 has type 'int'
+C:\Users\trent\source\repos\ProjectBigSmall\Source.cpp(32,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'int'
+C:\Users\trent\source\repos\ProjectBigSmall\Source.cpp(32,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 4 has type 'int'
+C:\Users\trent\source\repos\ProjectBigSmall\Source.cpp(32,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 5 has type 'int'
+C:\Users\trent\source\repos\ProjectBigSmall\Source.cpp(32,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

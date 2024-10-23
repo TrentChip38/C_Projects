@@ -1,0 +1,70 @@
+﻿  Test.cpp
+C:\Code\StackAndQue\MyStack.h(56,16): warning C4101: 'e': unreferenced local variable
+C:\Code\StackAndQue\MyStack.h(48): message : while compiling class template member function 'T MyStack<T>::peek(void)'
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\Test.cpp(20): message : see reference to function template instantiation 'T MyStack<T>::peek(void)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\Test.cpp(9): message : see reference to class template instantiation 'MyStack<char>' being compiled
+C:\Code\StackAndQue\MyStack.h(83,16): warning C4101: 'e': unreferenced local variable
+C:\Code\StackAndQue\MyStack.h(75): message : while compiling class template member function 'T MyStack<T>::pop(void)'
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\Test.cpp(29): message : see reference to function template instantiation 'T MyStack<T>::pop(void)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\MyStack.h(116,16): warning C4101: 'e': unreferenced local variable
+C:\Code\StackAndQue\MyStack.h(108): message : while compiling class template member function 'void MyStack<char>::push(T)'
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\Test.cpp(17): message : see reference to function template instantiation 'void MyStack<char>::push(T)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\MyQueue.h(58,16): warning C4101: 'e': unreferenced local variable
+C:\Code\StackAndQue\MyQueue.h(50): message : while compiling class template member function 'T MyQueue<T>::peek(void)'
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\Test.cpp(22): message : see reference to function template instantiation 'T MyQueue<T>::peek(void)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\Test.cpp(10): message : see reference to class template instantiation 'MyQueue<char>' being compiled
+C:\Code\StackAndQue\MyQueue.h(85,16): warning C4101: 'e': unreferenced local variable
+C:\Code\StackAndQue\MyQueue.h(77): message : while compiling class template member function 'T MyQueue<T>::pop(void)'
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\Test.cpp(35): message : see reference to function template instantiation 'T MyQueue<T>::pop(void)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\MyQueue.h(122,16): warning C4101: 'e': unreferenced local variable
+C:\Code\StackAndQue\MyQueue.h(114): message : while compiling class template member function 'void MyQueue<char>::push(T)'
+          with
+          [
+              T=char
+          ]
+C:\Code\StackAndQue\Test.cpp(18): message : see reference to function template instantiation 'void MyQueue<char>::push(T)' being compiled
+          with
+          [
+              T=char
+          ]
+  StackAndQue.vcxproj -> C:\Code\StackAndQue\x64\Debug\StackAndQue.exe

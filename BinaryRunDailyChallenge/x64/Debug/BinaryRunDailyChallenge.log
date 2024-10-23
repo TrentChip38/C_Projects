@@ -1,0 +1,6 @@
+﻿  BinaryRunMain.cpp
+C:\Code\BinaryRunDailyChallenge\BinaryRunMain.cpp(20,7): warning C4552: '<<': result of expression not used
+C:\Code\BinaryRunDailyChallenge\BinaryRunMain.cpp(26,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Code\BinaryRunDailyChallenge\BinaryRunMain.cpp(27,42): warning C4311: 'type cast': pointer truncation from 'int *' to 'unsigned int'
+C:\Code\BinaryRunDailyChallenge\BinaryRunMain.cpp(27,42): warning C4302: 'type cast': truncation from 'int *' to 'unsigned int'
+  BinaryRunDailyChallenge.vcxproj -> C:\Code\BinaryRunDailyChallenge\x64\Debug\BinaryRunDailyChallenge.exe
